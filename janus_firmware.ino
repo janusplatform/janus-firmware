@@ -2,7 +2,7 @@
 #include <MFRC522.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
-#include "aura_font.h"
+#include "janus_font.h"
 
 
 #define OLED_ADDRESS                 0x3C
