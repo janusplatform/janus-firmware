@@ -187,7 +187,7 @@ const GFXglyph FreeSerif9pt7bGlyphs[] PROGMEM = {
         {  1066,   5,  16,   9,    3,  -11 },   // 0x7D '}'
         {  1076,   9,   3,   9,    0,   -5 } }; // 0x7E '~'
 
-const GFXfont AuraFont PROGMEM = {
+const GFXfont JanusFont PROGMEM = {
         (uint8_t  *)FreeSerif9pt7bBitmaps,
         (GFXglyph *)FreeSerif9pt7bGlyphs,
         0x20, 0x7E, 22 };
